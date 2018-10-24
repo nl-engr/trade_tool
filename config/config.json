@@ -1,0 +1,7 @@
+{
+  "slack" : {
+    "token": "",
+    "admin_user": "",
+    "bot_id": ""
+  }
+}

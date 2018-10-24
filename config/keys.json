@@ -1,0 +1,15 @@
+{
+  "slack" : {
+    "token": ""
+  },
+  "bitmex" : {
+    "ApiKeyTest": "",
+    "ApiSecretTest": "",
+    "ApiKey": "",
+    "ApiSecret": ""
+  },
+  "bitflyer" : {
+    "ApiKey": "",
+    "ApiSecret": ""
+  }
+}
