@@ -1,0 +1,15 @@
+{
+    "ENV": "PROD",
+    "ADMIN": true,
+    "BTC": {
+        "SIDE": "SHORT",
+        "MODE": "ON"
+    },
+    "XRP": {
+        "SIDE": "SHORT",
+        "MODE": "ON"
+    },
+    "LTC": {
+        "SIDE": "LONG"
+    }
+}
