@@ -3,5 +3,15 @@
     "token": "",
     "admin_user": "",
     "bot_id": ""
+  },
+  "bitmex" : {
+    "ApiKeyTest": "",
+    "ApiSecretTest": "",
+    "ApiKey": "",
+    "ApiSecret": ""
+  },
+  "bitflyer" : {
+    "ApiKey": "",
+    "ApiSecret": ""
   }
 }

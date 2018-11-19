@@ -1,15 +1,24 @@
 {
-    "ENV": "PROD",
-    "ADMIN": true,
+    "ENV": "TEST",
+    "ADMIN": false,
     "BTC": {
-        "SIDE": "SHORT",
-        "MODE": "ON"
+        "SIDE": "",
+        "MODE": "",
+        "LV": 
     },
     "XRP": {
-        "SIDE": "SHORT",
-        "MODE": "ON"
+        "SIDE": "",
+        "MODE": "",
+        "LV": 
     },
     "LTC": {
-        "SIDE": "LONG"
+        "SIDE": "",
+        "MODE": "",
+        "LV": 
+    },
+    "BCH": {
+        "SIDE": "",
+        "MODE": "",
+        "LV": 
     }
 }
