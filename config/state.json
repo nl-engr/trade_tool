@@ -1,24 +1,34 @@
 {
-    "ENV": "TEST",
-    "ADMIN": false,
-    "BTC": {
-        "SIDE": "",
-        "MODE": "",
-        "LV": ""
+    "ADMIN": true,
+    "bitmex": {
+        "ENV": "TEST",
+        "BTC": {
+            "SIDE": "",
+            "MODE": "ON",
+            "LV": 20
+        },
+        "XRP": {
+            "SIDE": "",
+            "MODE": "ON",
+            "LV": 3
+        },
+        "LTC": {
+            "SIDE": "",
+            "MODE": "ON",
+            "LV": 3
+        },
+        "BCH": {
+            "SIDE": "",
+            "MODE": "ON",
+            "LV": 3
+        }
     },
-    "XRP": {
-        "SIDE": "",
-        "MODE": "",
-        "LV": ""
-    },
-    "LTC": {
-        "SIDE": "",
-        "MODE": "",
-        "LV": ""
-    },
-    "BCH": {
-        "SIDE": "",
-        "MODE": "",
-        "LV": ""
+    "bitflyer": {
+        "ENV": "PROD",
+        "BTC": {
+            "SIDE": "",
+            "MODE": "ON",
+            "LV": 3
+        }
     }
 }
