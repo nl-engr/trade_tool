@@ -3,4 +3,5 @@ node_modules/*
 npm-debug.log
 config/keys.json
 config/config.json
+config/state.json
 test*.js
