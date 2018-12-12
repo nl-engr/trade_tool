@@ -3,31 +3,36 @@
     "bitmex": {
         "ENV": "TEST",
         "BTC": {
-            "SIDE": "",
+            "SIDE": "null",
             "MODE": "ON",
-            "LV": 20
+            "REDOTEN": true,
+            "LV": 3
         },
         "XRP": {
-            "SIDE": "",
-            "MODE": "ON",
+            "SIDE": "null",
+            "MODE": "OFF",
+            "REDOTEN": false,
             "LV": 3
         },
         "LTC": {
             "SIDE": "",
-            "MODE": "ON",
+            "MODE": "OFF",
+            "REDOTEN": false,
             "LV": 3
         },
         "BCH": {
             "SIDE": "",
-            "MODE": "ON",
+            "MODE": "OFF",
+            "REDOTEN": false,
             "LV": 3
         }
     },
     "bitflyer": {
         "ENV": "PROD",
         "BTC": {
-            "SIDE": "",
+            "SIDE": "sell",
             "MODE": "ON",
+            "REDOTEN": true,
             "LV": 3
         }
     }
