@@ -1,7 +1,7 @@
 {
   "appenders" : {
     "console": {"type": "console"},
-    "access": { "type": "dateFile", "filename": "logs/access.log", "pattern": "-yyyy-MM-dd", "numBackups": 3},
+    "access": { "type": "file", "filename": "logs/access.log", "pattern": "-yyyy-MM-dd", "numBackups": 3},
     "system": { "type": "file", "filename": "logs/system.log", "pattern": "-yyyy-MM-dd", "numBackups": 3, "maxLogSize": 10485760},
     "errorFile": { "type": "file", "filename": "logs/errors.log" },
     "errors": { "type": "logLevelFilter", "level": "error", "appender": "errorFile" }

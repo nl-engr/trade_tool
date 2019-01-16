@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
-    "@slack/client": "^4.6.0",
+    "@slack/client": "^4.8.0",
     "@slack/events-api": "^2.1.0",
     "ajv": "^5.5.2",
     "array.prototype.findindex": "^2.0.2",
