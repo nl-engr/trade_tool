@@ -1,0 +1,19 @@
+{
+  "slack" : {
+    "token": "",
+    "admin_user": "",
+    "bot_id": "",
+    "channel": ""
+  },
+  "bitmex" : {
+    "ApiKeyTest": "",
+    "ApiSecretTest": "",
+    "ApiKey": "",
+    "ApiSecret": ""
+  },
+  "bitflyer" : {
+    "ApiKey": "",
+    "ApiSecret": ""
+  }
+}
+
