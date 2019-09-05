@@ -81,6 +81,7 @@
     "request": "^2.88.0",
     "request-promise": "^4.2.2",
     "request-promise-core": "^1.1.1",
+    "rpc-websockets": "^4.3.5",
     "safe-buffer": "^5.1.2",
     "safer-buffer": "^2.1.2",
     "sshpk": "^1.14.2",
