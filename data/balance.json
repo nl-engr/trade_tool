@@ -1,0 +1,12 @@
+{
+    "bitflyer": {
+        "BTC": {
+            "total_collateral": 863120.834557584
+        }
+    },
+    "bitmex": {
+        "BTC": {
+            "total_collateral": 0.01635771
+        }
+    }
+}
